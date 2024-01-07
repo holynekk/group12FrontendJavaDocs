@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.group12"},{"l":"com.group12.controller"},{"l":"com.group12.helper"},{"l":"com.group12.model"},{"l":"com.group12.model.chat"}];updateSearchResults();
